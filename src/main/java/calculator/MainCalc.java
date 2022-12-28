@@ -1,4 +1,6 @@
-public class Main {
+package calculator;
+
+public class MainCalc {
     public static void main(String[] args) {
         double a = 2;
         double b = 3;

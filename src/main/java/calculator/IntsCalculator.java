@@ -1,3 +1,5 @@
+package calculator;
+
 public class IntsCalculator implements Ints {
 
     private Calculator target;
